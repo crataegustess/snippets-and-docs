@@ -6,6 +6,7 @@ There are a number of options for handling aws profiles for the command line, th
 Python based. This is the awscli built-in profile configuration tool. Roles, sts and multifactor auth are more tricky and involve a lot of typing per command
 
 [aws reference page](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)
+
 [full featured tutorial](http://aws-cloud.guru/aws-cli-configure-roles/)
 
 - uses .aws/config and .aws/credentials which makes configurations safer to show when training others!

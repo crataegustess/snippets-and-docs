@@ -34,7 +34,7 @@ and when mixed with pairing
 
 - practise makes everything better, the more cycles done (with more people if pairing) the slicker the handover.
 
-- take a bit of time during refactor phase (red -> green -> **refactor**) to clean up tests. many unit test frameworks allow for the same test function or method to be run with multiple test data sets (or test cases) via decorators; this can help keep your test code DRY if it's getting too unreadable.
+- take a bit of time during refactor phase (red -> green -> **refactor**) to clean up tests. Many unit test frameworks allow for the same test function or method to be run with multiple test data sets (or test cases) via decorators; this can help keep your test code DRY if it's getting too unreadable.
   - python
     - [py test params](https://docs.pytest.org/en/latest/parametrize.html)
     - [nose test params](https://github.com/wolever/parameterized)

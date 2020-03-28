@@ -13,6 +13,7 @@ Use python.version within projects to pin to a specific version of python
 
 ### Use virtual environments
 [getting started](https://realpython.com/python-virtual-environments-a-primer/)
+
 [latest docs](https://docs.python.org/3/library/venv.html)
 
 Feeling adventurous? use them both together [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)
